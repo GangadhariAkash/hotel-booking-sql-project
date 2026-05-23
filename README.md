@@ -1,38 +1,18 @@
-**# Hotel Booking SQL Project**
+# Hotel Booking SQL Project
 
+## Overview
+MySQL project with 300+ records using stored procedures.
 
+## Features
+- Customers, Rooms, Bookings tables
+- Automated data generation
+- KPI analysis using SQL
 
-**## Overview**
+## KPIs
+- Revenue analysis
+- Booking trends
+- Customer segmentation
 
-**MySQL project simulating hotel booking system with 300+ records.**
-
-
-
-**## Features**
-
-**- Customers, Rooms, Bookings tables**
-
-**- Stored procedures for data generation**
-
-**- KPI analysis using SQL**
-
-
-
-**## KPIs**
-
-**- Revenue analysis**
-
-**- Booking trends**
-
-**- Customer analysis**
-
-**- Room performance**
-
-
-
-**## Tools Used**
-
-**- MySQL**
-
-**- SQL Procedures**
-
+## Tools Used
+- MySQL
+- SQL Procedures
